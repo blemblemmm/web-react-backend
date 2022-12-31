@@ -1,7 +1,6 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "type": "module",
   "dependencies": {
@@ -25,5 +24,14 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blemblemmm/web-react-backend.git"
+  },
+  "bugs": {
+    "url": "https://github.com/blemblemmm/web-react-backend/issues"
+  },
+  "homepage": "https://github.com/blemblemmm/web-react-backend#readme",
+  "description": ""
 }
